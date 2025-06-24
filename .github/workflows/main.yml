@@ -6,7 +6,6 @@ on:
       - dev
       - qa
       - master
-
 jobs:
   build-and-push:
     name: Build and Push to ECR
